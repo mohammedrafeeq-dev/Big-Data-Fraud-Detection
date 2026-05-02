@@ -24,10 +24,6 @@ data/processed/*.parquet
 data/processed/*.csv
 
 # --- Trained Models (too large for git) ---
-models/logistic_regression/
-models/random_forest/
-models/decision_tree/
-models/gbt/
 
 # --- Spark Logs ---
 spark-warehouse/
