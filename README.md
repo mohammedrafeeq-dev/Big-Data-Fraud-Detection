@@ -5,6 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PySpark](https://img.shields.io/badge/Apache_Spark-3.5+-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.30+-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![MLOps](https://github.com/mohammedrafeeq-dev/Big-Data-Fraud-Detection/actions/workflows/train_models.yml/badge.svg)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 **A production-grade, end-to-end Big Data pipeline for detecting fraudulent credit card transactions using Apache Spark MLlib.**
@@ -37,6 +38,7 @@ Credit card fraud costs financial institutions billions of dollars annually. Thi
 | 📁 **Batch Prediction** | Upload CSV for multi-model bulk predictions |
 | 📈 **Model Comparison** | Interactive charts, radar plots, and confusion matrices |
 | 🔮 **Real-Time Prediction** | Instant fraud scoring with confidence levels |
+| 🤖 **MLOps Automation** | GitHub Actions pipeline for automated model training |
 
 ---
 
