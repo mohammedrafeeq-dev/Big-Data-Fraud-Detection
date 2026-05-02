@@ -10,7 +10,7 @@
 
 **A production-grade, end-to-end Big Data pipeline for detecting fraudulent credit card transactions using Apache Spark MLlib.**
 
-[Features](#-features) · [Architecture](#-architecture) · [Quick Start](#-quick-start) · [Project Structure](#-project-structure) · [Results](#-results)
+[Live Demo](https://credit-card-fraud-detection-bd.streamlit.app/) | [Features](#features) | [Architecture](#architecture) | [Quick Start](#quick-start) | [Project Structure](#project-structure) | [Results](#results)
 
 </div>
 
